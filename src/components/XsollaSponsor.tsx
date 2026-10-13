@@ -55,7 +55,7 @@ export const XsollaStandaloneSection = ({
           </>
         ) : (
           <>
-            Xsolla gives web game developers a complete way to monetize outside the portals. Launch
+            Xsolla gives web game developers a complete way to monetize alongside portals. Launch
             a branded Web Shop and sell in-game currency, items, and bundles on your own site.
             Accept 1,000+ payment methods in 200+ countries, with local pricing. Keep up to 95% of
             every sale, with transparent pricing.
